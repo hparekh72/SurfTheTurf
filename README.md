@@ -1,13 +1,26 @@
 
 # Turf Booking Website - **SurfTheTurf**
 
-
 ## Problem Statement:
 With less availability of Open Grounds, turfs has emerged as a new way for
 everyone to get around and play together at reasonable rates. As booking turf is
 an ordeal for people to locate, fetch details according to their requirements, it
 has become a necessity to have a solution to book turf on the go. Users can
 check the availability of the turf, select timings, and view booking history.
+
+## Demo Video:
+
+[](https://user-images.githubusercontent.com/56031116/152095179-09578948-ea65-4d6e-8377-d955e9d71715.mp4)
+
+<!---- ## Hosted Website:
+
+Checkout our Website[@surftheturf.herokuapp.com/](https://surftheturf.herokuapp.com/)
+
+**You can also try it out for yourself by using the following test-user credentials on the website:**
+
+- **Username:** demo
+
+- **Password:** demo1 --->
 
 ## Group Members:
 - [@parthdali](https://github.com/parthd06)
@@ -16,39 +29,25 @@ check the availability of the turf, select timings, and view booking history.
 - [@shivambhosale](https://github.com/ShivamB10)
 - [@harshkumarbhikadiya](https://github.com/Harshbhikadiya29)
 
+<!----
 ## Additional Collaborators:
 - [@hitanshuparekh](https://github.com/hparekh72)
 - [@bhavyeshshah](https://github.com/Bhavyeshshah)
-
-<!-- ## Demo:
-You can try it out for yourself by using the following credentials on the website:
-
-Username: 
-
-Password: 
-
-[Checkout our Website]()
-
-Or 
-
-[Checkout this Demo video]()
- -->
+--->
 
 ## Features:
 
-- Responsive & Mobile Friendly
-- Advance Reservations and online booking
-- Real-time alerts & notifications
-- Updated Slot booking
+- Email Confirmation on Booking
+- Advance Reservations and Online Booking
+- Real-time slot updates
 - Discount Vouchers
 - Razorpay Payment Gateway
+- Responsive & Mobile Friendly
 
-## Screenshots:
+## Project Screenshots:
 **Main Page:**
 
 ![App Screenshot1](https://github.com/parthd06/SurfTheTurf/blob/main/Extras/Screenshots/ss1.png)
-
-![App Screenshot2](https://github.com/parthd06/SurfTheTurf/blob/main/Extras/Screenshots/ss2.png)
 
 **Sign Up Page:**
 
@@ -81,6 +80,10 @@ Checkout Form Page:
 Order History:
 
 ![App Screenshot11](https://github.com/parthd06/SurfTheTurf/blob/main/Extras/Screenshots/ss11.png)
+
+After payment through razorpay mail confirmation:
+
+![Gmail Confirmation](https://github.com/parthd06/SurfTheTurf/blob/main/Extras/Screenshots/ss15.png)
 
 About Us page:
 
